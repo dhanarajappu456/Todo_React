@@ -1,12 +1,11 @@
-Certainly! Here's a more beautified README for your Todo React app:
 
----
+
 
 # Todo React App 📝
 
 A simplistic, yet powerful To-Do application built with React. Stay organized and manage your tasks efficiently.
 
-![Todo App Mockup Image](URL_TO_AN_IMAGE_IF_YOU_HAVE_ONE)
+![Todo App Mockup Image]([URL_TO_AN_IMAGE_IF_YOU_HAVE_ONE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtodo%2BList&psig=AOvVaw08WcfctiZgoZd4xUM_fqrM&ust=1694852436656000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDy4OuWrIEDFQAAAAAdAAAAABAE))
 
 ## Features 🌟
 
@@ -23,7 +22,7 @@ A simplistic, yet powerful To-Do application built with React. Stay organized an
 
 1. Clone the repository:
    ```
-   git clone YOUR_REPO_LINK
+   git clone https://github.com/dhanarajappu456/Todo_React.git
    ```
 2. Navigate to the project directory and install dependencies:
    ```
@@ -40,6 +39,4 @@ The app will open in a new browser tab. Happy task managing!
 
 Feel free to raise issues for any bugs or improvements you'd like to see. Pull requests are also welcome!
 
----
 
-**Note**: Replace `YOUR_REPO_LINK` with the actual link to your GitHub repository, and `URL_TO_AN_IMAGE_IF_YOU_HAVE_ONE` with an actual link to a mockup or screenshot of your Todo app if you have one.
