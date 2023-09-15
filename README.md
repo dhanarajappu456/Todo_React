@@ -5,7 +5,7 @@
 
 A simplistic, yet powerful To-Do application built with React. Stay organized and manage your tasks efficiently.
 
-![Todo App Mockup Image]([URL_TO_AN_IMAGE_IF_YOU_HAVE_ONE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtodo%2BList&psig=AOvVaw08WcfctiZgoZd4xUM_fqrM&ust=1694852436656000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDy4OuWrIEDFQAAAAAdAAAAABAE))
+![Todo App Mockup Image](https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png)
 
 ## Features 🌟
 
